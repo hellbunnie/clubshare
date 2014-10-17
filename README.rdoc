@@ -1,0 +1,5 @@
+== README
+
+App for sharing licenced and copyrighted photos (and perhaps other files)
+between members of a club.
+
